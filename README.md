@@ -1,6 +1,7 @@
 # Домашнее задание 2
 ###### Анализ ChIP-Seq данных. Определение участков генома с наличием гистоновых модификаций.
 ###### Зиёев Рустам Группа 3
+###### https://colab.research.google.com/drive/1Qr17wduKfU6bvArnh9SloW3P1QxrJqan?usp=sharing
 
 ## FASTQC
 
